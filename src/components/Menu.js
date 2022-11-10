@@ -10,7 +10,7 @@ export function Menu() {
        <nav>
           <div className="logo-name">
               <div className="logo-image">
-              <img src='https://ss-static-01.esmsv.com/id/130303/galeriaimagenes/obtenerimagen/?id=255&tipoEscala=crop&width=788&height=788' />
+              <img src='https://ss-static-01.esmsv.com/id/130303/galeriaimagenes/obtenerimagen/?id=255&tipoEscala=crop&width=788&height=788' alt="Logo" />
               </div>
               <span className="logo_name">TimeBoxing</span>
           </div>
