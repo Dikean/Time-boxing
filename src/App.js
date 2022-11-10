@@ -97,6 +97,12 @@ function App() {
                     <p class="card-text">Jenaro jimenez</p>
                       </div>
                   </div><br></br>
+                  <div class="card" >
+                    <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/164207504/original/24b5554b588aa0ccb60d858eab372be9aa34756d/create-social-media-avatar-minimalist-style.jpg" class="card-img-top" alt="..." id='imgdeveloper' />
+                    <div class="card-body">
+                    <p class="card-text">Luis torres</p>
+                      </div>
+                  </div><br></br>
                   
                 </div> {/** end sidebar rigth */}
               </div>

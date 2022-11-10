@@ -56,7 +56,7 @@ function QR() {
   useEffect(() => {
     getProducts()
 
-}, [])
+})
   return (
     <>
     <Menu></Menu>
